@@ -11,7 +11,7 @@ import { authOptions } from "@/lib/auth"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Professional Network",
+  title: "Segment",
   description: "Connect with professionals in a meaningful way",
 }
 
